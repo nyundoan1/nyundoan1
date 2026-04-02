@@ -1,6 +1,6 @@
 <p align="center">
   <sub>
-    [ Mục tiêu: DV engineer.   Ước mơ: Hokage.]
+    [ Mục tiêu: DV engineer.   Ước mơ: Trở thành Hokage và được mọi người công nhận.]
   </sub>
 </p>
 
