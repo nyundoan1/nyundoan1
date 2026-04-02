@@ -20,10 +20,14 @@ Currently focusing on:
 
 ### PROJECT SUMMARY
 
-- Digital Design  
-- Verilog / SystemVerilog  
-- UVM  
+- **[APB 8-bit Timer Verification](https://github.com/nyundoan1/Verify-8bit-Timer-via-APB-using-SystemVerilog)** *(01/2026)*  
+  SystemVerilog testbench for APB-based timer verification  
 
+- **[64-bit Timer IP Design & Verification (via APB)](https://github.com/nyundoan1/Design-and-Verify-64-bit-Timer-IP-via-APB-protocol)** *(12/2025)*  
+  RTL design and verification of a 64-bit timer using APB protocol  
+
+- **[Simple Traffic Light Controller](https://github.com/nyundoan1/traffic-light-controller-rtl-and-simulation)** *(12/2023)*  
+  FSM-based RTL design with two-direction control and simulation  
 
 
 ### HOW TO REACH ME
