@@ -16,7 +16,7 @@
   Email: <a href="mailto:1doanhan1@gmail.com">1doanhan1@gmail.com</a><br>
   <a href="https://github.com/nyundoan1">GitHub</a> •
   <a href="https://www.youtube.com/@nyundoan">YouTube</a> •
-  <a href="https://www.linkedin.com/in/nyundoan1">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/nyundoan">LinkedIn</a> •
   <a href="https://www.tiktok.com/@nyundoan">TikTok</a> •
   <a href="https://www.facebook.com/nyundoan">Facebook</a>
 </p>
