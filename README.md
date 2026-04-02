@@ -4,9 +4,10 @@
 **Full name:** Đoàn Lê Nhân  
 **aka:** *nyundoan*
 
----
 
- **ABOUT ME**
+
+
+ ### ABOUT ME
  
 I am highly interested in *Design Verification*.
 
@@ -14,9 +15,10 @@ Currently focusing on:
 - Verilog / SystemVerilog  
 - UVM methodology  
 
---
 
-# PROJECT SUMMARY
+
+
+### PROJECT SUMMARY
 
 - Digital Design  
 - Verilog / SystemVerilog  
@@ -24,7 +26,7 @@ Currently focusing on:
 
 
 
-# HOW TO REACH ME
+### HOW TO REACH ME
 
 | Platform  | Information |
 |-----------|------------|
@@ -35,7 +37,7 @@ Currently focusing on:
 | YouTube   |  [My Youtube Channel](https://www.youtube.com/@nyundoan) |
 
 ---
-# FOR RECRUITERS
+### FOR RECRUITERS
 
 If you are a HR department, Please click the link below to access my certifications, resume, and academic transcript:
 
