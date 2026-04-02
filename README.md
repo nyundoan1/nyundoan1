@@ -16,7 +16,6 @@
 </p>
 
 
-<hr style="height:1px;border:none;background-color:#ccc;">
 
  ### ABOUT ME
  
