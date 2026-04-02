@@ -39,8 +39,6 @@ Currently focusing on:
   FSM-based RTL design with two-direction control and simulation  
 
 
-
----
 ### FOR RECRUITERS
 
 If you are a HR department, Please click the link below to access my certifications, resume, and academic transcript:
