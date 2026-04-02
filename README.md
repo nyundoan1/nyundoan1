@@ -1,4 +1,4 @@
-# Hi There, I'm Nhân Đoàn <img width="50" height="213" alt="image" src="https://github.com/user-attachments/assets/504ac028-4c9a-497d-8bab-8a7703700aab" />
+# Hello, I’m Nhân Đoàn <img width="50" height="213" alt="image" src="https://github.com/user-attachments/assets/504ac028-4c9a-497d-8bab-8a7703700aab" />
 
 **Full name:** Đoàn Lê Nhân  
 **aka:** *nyundoan*
