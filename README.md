@@ -1,12 +1,12 @@
 
 # Hello, I’m Nhân Đoàn <img width="50" height="213" alt="image" src="https://github.com/user-attachments/assets/504ac028-4c9a-497d-8bab-8a7703700aab" />
 
-**Full name:** Đoàn Lê Nhân  
-**aka:** *nyundoan*
 
 
 <p align="center">
-  <b>You can find me here</b><br>
+      <b>Full name: <i> Đoàn Lê Nhân</i></b><br>
+    <b>AKA: <i>nyundoan</i></b><br>
+  <b>Anh you can find me here:</b><br>
   Phone: 0364521837<br>
   Email: <a href="mailto:1doanhan1@gmail.com">1doanhan1@gmail.com</a><br>
   <a href="https://github.com/nyundoan1">GitHub</a> •
