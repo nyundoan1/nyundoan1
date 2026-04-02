@@ -16,6 +16,8 @@
 </p>
 
 
+<hr style="height:1px;border:none;background-color:#ccc;">
+
  ### ABOUT ME
  
 I am highly interested in *Design Verification*.
@@ -28,7 +30,7 @@ Currently focusing on:
 
 
 ### PROJECT SUMMARY
-
+A quick overview of what I’ve been working on — click on each project for more details. Each README is carefully written for clarity.
 - **[APB 8-bit Timer Verification](https://github.com/nyundoan1/Verify-8bit-Timer-via-APB-using-SystemVerilog)** *(01/2026)*  
   SystemVerilog testbench for APB-based timer verification  
 
