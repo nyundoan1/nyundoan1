@@ -5,6 +5,15 @@
 **aka:** *nyundoan*
 
 
+<p align="center">
+  <b>You can find me here</b><br>
+  Phone: 0364521837<br>
+  Email: <a href="mailto:1doanhan1@gmail.com">1doanhan1@gmail.com</a><br>
+  <a href="https://github.com/nyundoan1">GitHub</a> •
+  <a href="https://www.tiktok.com/@nyundoan">TikTok</a> •
+  <a href="https://www.facebook.com/nyundoan">Facebook</a> •
+  <a href="https://www.youtube.com/@nyundoan">YouTube</a>
+</p>
 
 
  ### ABOUT ME
@@ -30,15 +39,6 @@ Currently focusing on:
   FSM-based RTL design with two-direction control and simulation  
 
 
-### HOW TO REACH ME
-
-| Platform  | Information |
-|-----------|------------|
-| Phone     | 0364521837 |
-| Email     | [1doanhan1@gmail.com](mailto:1doanhan1@gmail.com) |
-| TikTok    | [My Tiktok Channel](https://www.tiktok.com/@nyundoan) |
-| Facebook  |  [My Facebook Channel](https://www.facebook.com/nyundoan) |
-| YouTube   |  [My Youtube Channel](https://www.youtube.com/@nyundoan) |
 
 ---
 ### FOR RECRUITERS
