@@ -20,17 +20,16 @@
   <a href="https://www.youtube.com/@nyundoan">YouTube</a>
 </p>
 
+### ABOUT ME
 
-
- ### ABOUT ME
- 
 I am highly interested in *Design Verification*.
 
 Currently focusing on:
 - Verilog / SystemVerilog  
 - UVM methodology  
 
-
+Outside of that, I’m on my way to becoming Hokage — still practicing my ninjutsu.  
+I also enjoy playing the flute, so I don’t mind contributing to the “entertainment team”.
 
 
 ### PROJECT SUMMARY
