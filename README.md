@@ -13,7 +13,7 @@
     <b>aka:</b> <i>nyundoan</i><br>
   <b>You can find me here:</b><br>
   Phone: 0364521837<br>
-  Email: <a href="mailto:1doanhan1@gmail.com">1doanhan1@gmail.com</a><br>
+  Email: 1doanhan1@gmail.com<br>
   <a href="https://github.com/nyundoan1">GitHub</a> •
   <a href="https://www.youtube.com/@nyundoan">YouTube</a> •
   <a href="https://www.linkedin.com/in/nyundoan">LinkedIn</a> •
