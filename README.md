@@ -11,7 +11,6 @@
 <p align="center">
       <b>Full name:</b> <i> Đoàn Lê Nhân</i><br>
     <b>aka:</b> <i>nyundoan</i><br>
-  <b>You can find me here:</b><br>
   <b>Phone:</b> 0364521837<br>
   <b>Email:</b> 1doanhan1@gmail.com<br>
   <a href="https://github.com/nyundoan1">GitHub</a> •
