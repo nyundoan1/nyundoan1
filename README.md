@@ -42,7 +42,7 @@ A quick overview of what I’ve been working on — click on each project for mo
  RTL Design and verification a 64-bit timer via APB protocol with Register  
 
 - **[Parallel to serial verification](https://github.com/nyundoan1/parallel-to-serial-verification)** *(11/2025)*  
-  Read Spec, building the verify plan and then write testbench base on the vplan (RTL encrypted) 
+  Read specification, building the verify plan and then write testbench base on the vplan (RTL encrypted) 
 
 - **[Simple UART Protocol](https://github.com/nyundoan1/simple-uart-rtl-and-testbench)** *(03/2024)*  
  RTL design of UART protocol and simple testbench to simulation  
