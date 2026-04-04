@@ -41,7 +41,7 @@ A quick overview of what I’ve been working on — click on each project for mo
 - **[64-bit Timer IP Design & Verification (via APB)](https://github.com/nyundoan1/Design-and-Verify-64-bit-Timer-IP-via-APB-protocol)** *(12/2025)*  
  RTL Design and verification a 64-bit timer via APB protocol with Register  
 
-- **[Parallel to serial verification](https://github.com/nyundoan1/parallel-to-serial-verification)** *(03/2024)*  
+- **[Parallel to serial verification](https://github.com/nyundoan1/parallel-to-serial-verification)** *(11/2025)*  
   Read Spec, building the verify plan and then write testbench base on the vplan (RTL encrypted) 
 
 - **[Simple UART Protocol](https://github.com/nyundoan1/simple-uart-rtl-and-testbench)** *(03/2024)*  
