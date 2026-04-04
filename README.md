@@ -35,19 +35,19 @@ I also enjoy playing the flute, so I don’t mind contributing to the “enterta
 
 ### PROJECT SUMMARY
 A quick overview of what I’ve been working on — click on each project for more details. Each README is carefully written for clarity.
-- **[APB 8-bit Timer Verification](https://github.com/nyundoan1/Verify-8bit-Timer-via-APB-using-SystemVerilog)** *(01/2026)*  
+- **[Verify an APB 8-bit Timer](https://github.com/nyundoan1/Verify-8bit-Timer-via-APB-using-SystemVerilog)** *(01/2026)*  
   SystemVerilog testbench for APB-based timer verification (RTL encrypted) 
 
-- **[64-bit Timer IP Design & Verification (via APB)](https://github.com/nyundoan1/Design-and-Verify-64-bit-Timer-IP-via-APB-protocol)** *(12/2025)*  
+- **[Design & verify 64-bit Timer IP (via APB)](https://github.com/nyundoan1/Design-and-Verify-64-bit-Timer-IP-via-APB-protocol)** *(12/2025)*  
  RTL Design and verification a 64-bit timer via APB protocol with Register  
 
-- **[Parallel to serial verification](https://github.com/nyundoan1/parallel-to-serial-verification)** *(11/2025)*  
+- **[Verify a Parallel to serial](https://github.com/nyundoan1/parallel-to-serial-verification)** *(11/2025)*  
   Read specification, building the verify plan and then write testbench base on the vplan (RTL encrypted) 
 
-- **[Simple UART Protocol](https://github.com/nyundoan1/simple-uart-rtl-and-testbench)** *(03/2024)*  
+- **[Design & verify an UART Protocol](https://github.com/nyundoan1/simple-uart-rtl-and-testbench)** *(03/2024)*  
  RTL design of UART protocol and simple testbench to simulation  
 
-- **[Simple Traffic Light Controller](https://github.com/nyundoan1/traffic-light-controller-rtl-and-simulation)** *(12/2023)*  
+- **[Design & verify a Simple Traffic Light Controller](https://github.com/nyundoan1/traffic-light-controller-rtl-and-simulation)** *(12/2023)*  
   FSM-based RTL design with two-direction control and simple testbench to simulation   
 
 ### FOR RECRUITERS
