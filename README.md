@@ -40,9 +40,11 @@ A quick overview of what I’ve been working on — click on each project for mo
 - **[64-bit Timer IP Design & Verification (via APB)](https://github.com/nyundoan1/Design-and-Verify-64-bit-Timer-IP-via-APB-protocol)** *(12/2025)*  
   RTL design and verification of a 64-bit timer using APB protocol  
 
-- **[Simple Traffic Light Controller](https://github.com/nyundoan1/traffic-light-controller-rtl-and-simulation)** *(12/2023)*  
-  FSM-based RTL design with two-direction control and simulation  
+- **[Simple UART Protocol](https://github.com/nyundoan1/simple-uart-rtl-and-testbench)** *(03/2024)*  
+ RTL design of UART protocol and simple testbench to simulation  
 
+- **[Simple Traffic Light Controller](https://github.com/nyundoan1/traffic-light-controller-rtl-and-simulation)** *(12/2023)*  
+  FSM-based RTL design with two-direction control and simulation 
 
 ### FOR RECRUITERS
 
