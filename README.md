@@ -7,8 +7,9 @@
 
 <h1 align="left">
   Hello, I’m Nhân Đoàn 
-  <img src="https://github.com/user-attachments/assets/862c8c04-9f57-45e0-ae28-2241ba6f4e00" width="40" style="vertical-align: left;" />
+  <img width="40" height="44" alt="f7f9be45f7f89fc0bd3be827cbeaae34" src="https://github.com/user-attachments/assets/3f2141e6-0469-444b-9bf5-d8d687aa1230" />
 </h1>
+
 
 
 
@@ -22,7 +23,8 @@
   <a href="https://www.youtube.com/@nyundoan">YouTube</a> •
   <a href="https://www.linkedin.com/in/nyundoan">LinkedIn</a> •
   <a href="https://www.tiktok.com/@nyundoan">TikTok</a> •
-  <a href="https://www.facebook.com/nyundoan">Facebook</a>
+  <a href="https://www.facebook.com/nyundoan">Facebook</a>![Uploading f7f9be45f7f89fc0bd3be827cbeaae34.jpg…]()
+
 </p>
 
 ### ABOUT ME
