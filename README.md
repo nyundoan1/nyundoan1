@@ -4,9 +4,11 @@
   </sub>
 </p>
 
-# Hello, I’m Nhân Đoàn <img width="50" height="57" alt="f7f9be45f7f89fc0bd3be827cbeaae34" src="https://github.com/user-attachments/assets/862c8c04-9f57-45e0-ae28-2241ba6f4e00" /> 
 
-
+<h1 align="center">
+  Hello, I’m Nhân Đoàn 
+  <img src="https://github.com/user-attachments/assets/862c8c04-9f57-45e0-ae28-2241ba6f4e00" width="50" style="vertical-align: middle;" />
+</h1>
 
 
 
