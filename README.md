@@ -7,7 +7,7 @@
 
 <h1 align="center">
   Hello, I’m Nhân Đoàn 
-  <img src="https://github.com/user-attachments/assets/862c8c04-9f57-45e0-ae28-2241ba6f4e00" width="50" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/862c8c04-9f57-45e0-ae28-2241ba6f4e00" width="50" style="vertical-align: left;" />
 </h1>
 
 
