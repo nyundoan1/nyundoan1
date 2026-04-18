@@ -5,9 +5,12 @@
 </p>
 
 
-<h1 align="left">
+<h1>
   Hello, I’m Nhân Đoàn 
-  <img width="40" height="44" alt="f7f9be45f7f89fc0bd3be827cbeaae34" src="https://github.com/user-attachments/assets/3f2141e6-0469-444b-9bf5-d8d687aa1230" />
+  <span>
+    <img src="https://github.com/user-attachments/assets/3f2141e6-0469-444b-9bf5-d8d687aa1230"
+         style="width:40px; height:44px; vertical-align: middle;" />
+  </span>
 </h1>
 
 
