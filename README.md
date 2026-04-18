@@ -26,7 +26,7 @@
   <a href="https://www.youtube.com/@nyundoan">YouTube</a> •
   <a href="https://www.linkedin.com/in/nyundoan">LinkedIn</a> •
   <a href="https://www.tiktok.com/@nyundoan">TikTok</a> •
-  <a href="https://www.facebook.com/nyundoan">Facebook</a>![Uploading f7f9be45f7f89fc0bd3be827cbeaae34.jpg…]()
+  <a href="https://www.facebook.com/nyundoan">Facebook</a>
 
 </p>
 
