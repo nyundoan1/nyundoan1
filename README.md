@@ -48,7 +48,7 @@ A quick overview of what I’ve been working on — click on each project for mo
 
 
 - **[Verify an UART IP using UVM](https://github.com/nyundoan1/UART-IP-verification-by-using-UVM)** *(04/2026)*  
-  Verified UART IP based on specification using UVM, including AHB register interface, TX/RX data path, FIFO behavior, interrupt handling, and concurrent TX/RX (full-duplex) scenarios  
+  Verified UART IP using UVM with AHB interface, configurable TX/RX, FIFO, interrupt, and oversampling modes
 
 - **[Develop & Validate UART VIP](https://github.com/nyundoan1/Develop-and-validate-UART-VIP)** *(03/2026)*  
   Developed reusable UART VIP using UVM supporting multiple configurations and verification scenarios  
